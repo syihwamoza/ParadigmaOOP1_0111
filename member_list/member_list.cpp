@@ -9,5 +9,4 @@ private:
 	float nilai;
 
 public:
-
 };
